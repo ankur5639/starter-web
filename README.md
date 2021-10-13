@@ -6,6 +6,8 @@
 
 ##  Purpose
 
+Please fork this repository and then issue Pull Requests for review . 
+
 ##  How to Contribute
 
 ##  NOTHING
