@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ankur Pathak -- ankur.nothing@nomail.com -- @ankur
 
 # THANKS
 
